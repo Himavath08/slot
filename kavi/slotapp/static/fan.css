@@ -1,0 +1,18 @@
+img {
+    text-align: center;
+    width: 40em;
+}
+table,th,td {
+    border: 2px;
+    border-style: solid;
+}
+.head{
+    background-color:  #a355f7;
+}
+.data{
+    text-align: center;
+    background-color: #ffa02b;
+}
+table,img{
+    margin: 20px;
+}
